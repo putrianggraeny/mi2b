@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package mi2b;
+package pertemuan1;
 
 /**
  *
  * @author Lenovo
  */
-public class MI2B {
+public class HelloWorld {
 
     /**
      * @param args the command line arguments
