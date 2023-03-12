@@ -6,6 +6,7 @@
 package pertemuan2;
 
 import java.util.Scanner;
+
 /**
  *
  * @author Lenovo
